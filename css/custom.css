@@ -1,0 +1,86 @@
+.landing-1 .hero-content .video-link{
+	color: white;
+	font-size: 20px;
+}
+
+.landing-1 .btn--primary, .landing-1 .btn--red{
+	border: 1px solid #3DC1F6;
+}
+
+.btn--primary:hover{
+	background-color: #05051F;
+	border-color: #05051F;
+}
+
+.landing-1 .footer-section .footer-top{
+	padding-bottom: 30px;
+}
+
+.landing-1 .copyright-area .social-icons li a:hover{
+	color: #3dc1f6;
+}
+
+.submit-btn{
+	border:2px solid #3dc1f6!important;
+	background-color: #05051F!important;
+	color: #3dc1f6!important;
+}
+
+.submit-btn:hover{
+	color: white!important;
+	background-color: #3dc1f6!important;
+}
+
+.landing-1 .feature-section{
+	background-color: #05051F;	
+}
+
+.landing-1 .cta-section{
+	background-color: #05051F;		
+}
+
+.landing-1 .footer-section{
+	background-color: #05051F;		
+}
+
+.landing-1 .feature-card .card-icon.blue{
+	background-color: rgba(61, 193, 246, 0.1);
+}
+
+.landing-1 .image-card.card-blue{
+	background-color: #3dc1f6;
+}
+
+.landing-1 .image-card.card-blue .card-icon{
+	background-color: #05051f;
+}
+
+.landing-1 .image-card.card-blue p{
+	color: #05051f;
+}
+
+.landing-1 .image-card.card-yellow{
+	background-color: #05051f;
+	color: white;
+}
+
+.landing-1 .image-card.card-yellow p{
+	color: white;
+}
+
+.landing-1 .image-card.card-yellow .card-icon{
+	background-color: #3dc1f6;
+}
+
+.landing-1 .image-card-2.card-yellow{
+	background-color: #3dc1f6;
+}
+
+.landing-1 .image-card-2 .card-text .date{
+	color: white;
+	opacity: 0.90;
+}
+
+.landing-1 .image-card-2 .card-icon{
+	background-color: #05051f;
+}
